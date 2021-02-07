@@ -10,9 +10,9 @@
 body{
   font-family: 'IBM VGA', monospace;
   text-transform: uppercase;
-  font-size: 1.6rem;
-  line-height: 1.6rem;
-  color: #fff;  
+  font-size: 2rem;
+  line-height: 2rem;
+  color: #fff;
 }
 
 /* /* BLINK EFFECT */
@@ -126,7 +126,7 @@ body{
   pointer-events: none;
 }
 .crt {
-  /* animation: textShadow 1.6s infinite; */
+  /* animation: textShadow 2s infinite; */
 }
 
 
@@ -139,7 +139,7 @@ main {
 }
 
 .credit {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   text-transform: none;
   position: fixed;
   bottom: 20px;
