@@ -7,6 +7,10 @@
     src: url("../fonts/Ac437_IBM_VGA_9x16.ttf");
 }
 
+html, body {
+  overflow:hidden;
+}
+
 body{
   font-family: 'IBM VGA', monospace;
   text-transform: uppercase;
