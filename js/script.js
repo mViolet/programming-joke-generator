@@ -22,10 +22,3 @@ function getJoke() {
 function toggler(){
     del.classList.remove('hide')
 }
-
-$(window).bind(
-  'touchmove',
-   function(e) {
-    e.preventDefault();
-  }
-);
